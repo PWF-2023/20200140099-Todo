@@ -3,7 +3,7 @@
 ## 1. Todo Completed
 ![Alt text](screenshot/tugas6/TodoCompleted.png)
 
-## 2. Todo Unompleted
+## 2. Todo Uncompleted
 ![Alt text](screenshot/tugas6/TodoUncompleted.png)
 
 ## 3. Todo Edit
